@@ -10,6 +10,7 @@ weight = 11
 pre ="<i class='fa fa-edit'></i> "
 
 +++
+If you have any information on academic resource, please send us a pull request on [the GitHub repository](https://github.com/matsuo-bted/BSAFE-AcademicResource).
 
 ## Academic Journal
 
@@ -57,7 +58,7 @@ pre ="<i class='fa fa-edit'></i> "
 * [Scaling Bitcoin 2018 - Kaizen -: October 6 and 7, Keio University, Tokyo, Japan](https://tokyo2018.scalingbitcoin.org)
 * [ACM/IFIP International Middleware Conference: December 10 - 14, Rennes, France](http://2018.middleware-conference.org)
 
-#### SP2019
+#### 2019
 * [Real World Cryptography: January 9 - 11, San Jose, USA](https://rwc.iacr.org)
 * [Stanford Blockchain Conference 2019: January 30 - February 1, Stanford University, Palo Alto, USA](https://cyber.stanford.edu/sbc19)
 * [Financial Cryptography and Data Security 2019: February 18 - 22, St. Kitts](http://fc19.ifca.ai)
