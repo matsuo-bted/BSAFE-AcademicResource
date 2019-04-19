@@ -18,11 +18,6 @@ pre ="<i class='fa fa-edit'></i> "
 ## Academic Conferences
 ### Upcoming conferences
 #### 2019
-* [Real World Cryptography: January 9 - 11, San Jose, USA](https://rwc.iacr.org)
-* [Stanford Blockchain Conference 2019: January 30 - February 1, Stanford University, Palo Alto, USA](https://cyber.stanford.edu/sbc19)
-* [Financial Cryptography and Data Security 2019: February 18 - 22, St. Kitts](http://fc19.ifca.ai)
-* [Cryptocurrency Implementers' Workshop: February 22 (Submission Deadline: December 21, 2018, Notification: January 7, 2019), St. Kitts](http://fc19.ifca.ai/ciw/)
-* [3rd Workshop on Trusted Smart Contracts: February 22 (Submission Deadline: December 14, 2018, Notification: January 10, 2019), St. Kitts](http://fc19.ifca.ai/wtsc/)
 * [CryBlock 2018 - 2nd Workshop on Cryptocurrencies and Blockchains for Distributed Systems, April 29 (Submission Deadline: December 30, 2018, Notification: February 22, 2019), Paris, France](http://www.cryblock.org)
 * [Blockchain, Distributed Ledgers, and Financial Contracting, May 2 - 3 (Submission Deadline: January 20, 2019, Notification: early February), Cambridge, MA, USA](https://conference.nber.org/callforpapers/blockchain.html)
 * [Tokenomics 2019 – International Conference on Blockchain Economics, Security and Protocols May 6-7(Submission Deadline January 15, 2019, Notification: March 1, 2019), Paris France](http://www.tokenomics2019.org/tokenomics/)
@@ -31,7 +26,9 @@ pre ="<i class='fa fa-edit'></i> "
 * [4th IEEE European Symposium on Security and Privacy, June 17-19 (Notification: February 19, 2019), Stockholm, Sweden](https://www.ieee-security.org/TC/EuroSP2019/)
 * [IEEE SECURITY & PRIVACY ON THE BLOCKCHAIN (IEEE S&B), June 17-19 (Submission Deadline: February 18 2019, Notification: March 28, 2019), Stockholm, Sweden](https://blockchain.kcl.ac.uk/ieee-sb2019/)
 * [ACM ASIS CCS 2019, July 7-12 (Abstract Registration Deadline: January 15, 2019 Paper Submission Deadline: January 22, 2019), Auckland, New Zealand](https://asiaccs2019.blogs.auckland.ac.nz)
-* [2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI 2019) (Submission Deadline: January 15, 2019 Paper Submission Deadline: April 10, 2019), Auckland, New Zealand](http://www.cloud-conf.net/bsci/2019/)
+* [2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure, July 7-12 (BSCI 2019) (Submission Deadline: January 15, 2019 Paper Submission Deadline: April 10, 2019), Auckland, New Zealand](http://www.cloud-conf.net/bsci/2019/)
+* [3rd International Workshop on Cryptocurrencies and Blockchain Technology - CBT'19, September 26-27 (Submission Deadline: June 25(Paper) July (Poster), Notification: July 25 2019), Luxembourg, Luxembourg](http://deic.uab.cat/conferences/cbt/cbt2019/)
+* [Security Standardization Research 2019, November 7-8 (Submission Deadline: July 1, Notification: August 15), 2019, London, UK](https://conferences.ncl.ac.uk/ssr2019/)
 * [ACM CCS 2019, November 11-15 (Submission Deadline: February 5, May 15, and September 1), 2019, London, UK](https://www.sigsac.org/ccs/CCS2019/)
 
 
@@ -59,3 +56,10 @@ pre ="<i class='fa fa-edit'></i> "
 * [CBT 2018 - International Workshop on Cryptocurrencies and Blockchain Technology, in conjunction with ESORICS 2018 -: September 6 and 7, Barcelona, Catalonia](http://deic.uab.cat/conferences/cbt/cbt2018/)
 * [Scaling Bitcoin 2018 - Kaizen -: October 6 and 7, Keio University, Tokyo, Japan](https://tokyo2018.scalingbitcoin.org)
 * [ACM/IFIP International Middleware Conference: December 10 - 14, Rennes, France](http://2018.middleware-conference.org)
+
+#### SP2019
+* [Real World Cryptography: January 9 - 11, San Jose, USA](https://rwc.iacr.org)
+* [Stanford Blockchain Conference 2019: January 30 - February 1, Stanford University, Palo Alto, USA](https://cyber.stanford.edu/sbc19)
+* [Financial Cryptography and Data Security 2019: February 18 - 22, St. Kitts](http://fc19.ifca.ai)
+* [Cryptocurrency Implementers' Workshop: February 22 (Submission Deadline: December 21, 2018, Notification: January 7, 2019), St. Kitts](http://fc19.ifca.ai/ciw/)
+* [3rd Workshop on Trusted Smart Contracts: February 22 (Submission Deadline: December 14, 2018, Notification: January 10, 2019), St. Kitts](http://fc19.ifca.ai/wtsc/)
