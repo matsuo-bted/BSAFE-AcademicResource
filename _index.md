@@ -25,6 +25,7 @@ If you have any information on academic resource, please send us a pull request 
 * [IEEE Crypto Valley Conference, June 24-26, Zug, Switzerland](http://www.cryptovalleyconference.com/index)
 * [ACM ASIS CCS 2019, July 7-12 (Abstract Registration Deadline: January 15, 2019 Paper Submission Deadline: January 22, 2019), Auckland, New Zealand](https://asiaccs2019.blogs.auckland.ac.nz)
 * [2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure, July 7-12 (BSCI 2019) (Submission Deadline: January 15, 2019 Paper Submission Deadline: April 10, 2019), Auckland, New Zealand](http://www.cloud-conf.net/bsci/2019/)
+* [Scaling Bitcoin 2019 "Yosed", September 11-12 (2019 Paper Submission Deadline: June 20, 2019, Notification: July 15, 2019), Tel Aviv, Israel](https://telaviv2019.scalingbitcoin.org)
 * [3rd International Workshop on Cryptocurrencies and Blockchain Technology - CBT'19, September 26-27 (Submission Deadline: June 25(Paper) July (Poster), Notification: July 25 2019), Luxembourg, Luxembourg](http://deic.uab.cat/conferences/cbt/cbt2019/)
 * [Security Standardization Research 2019, November 7-8 (Submission Deadline: July 1, Notification: August 15), 2019, London, UK](https://conferences.ncl.ac.uk/ssr2019/)
 * [ACM CCS 2019, November 11-15 (Submission Deadline: February 5, May 15, and September 1), 2019, London, UK](https://www.sigsac.org/ccs/CCS2019/)
